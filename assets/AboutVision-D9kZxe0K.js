@@ -1,1 +1,0 @@
-import{j as i}from"./index-4DJCFm8d.js";function e(){return i.jsxs(i.Fragment,{children:[i.jsx("h1",{children:"Our vision is"}),i.jsxs("ul",{children:[i.jsx("li",{children:"Take Over The World"}),i.jsx("li",{children:"Save The World"}),i.jsx("li",{children:"Eat"})]})]})}export{e as default};
